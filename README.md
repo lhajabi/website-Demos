@@ -12,7 +12,7 @@ A collection of responsive website templates for various purposes.
 2. **Blog Theme**
    - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-blog-theme)
    - Minimalist blog layout
-   - Features: Article listings, author section, newsletter signup
+   - Features: Article listings
 
 3. **Business Website**
    - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-business-website)
