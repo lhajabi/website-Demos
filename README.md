@@ -1,2 +1,31 @@
-# website-Demos
-HTML5 Website Demos (Beginner)
+# Website Demos Collection
+
+A collection of responsive website templates for various purposes.
+
+## Templates Included
+
+1. **Personal Website**
+   - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-personal-website)
+   - Clean, modern design for personal portfolios
+   - Features: Bio section, project showcase, contact form
+
+2. **Blog Theme**
+   - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-blog-theme)
+   - Minimalist blog layout
+   - Features: Article listings, author section, newsletter signup
+
+3. **Business Website**
+   - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-business-website)
+   - Professional business template
+   - Features: Services section, team members, testimonials
+
+4. **JavaScript Enhanced**
+   - [Live Demo](https://dash.generalassemb.ly/lhajabi/update-the-javascript-code)
+   - Interactive website with JavaScript functionality
+   - Features: Dynamic content loading, form validation, animations
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/website-templates.git
