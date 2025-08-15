@@ -24,8 +24,3 @@ A collection of responsive website templates for various purposes.
    - Interactive website with JavaScript functionality
    - Features: Dynamic content loading, form validation, animations
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/website-templates.git
