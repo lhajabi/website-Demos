@@ -17,10 +17,10 @@ A collection of responsive website templates for various purposes.
 3. **Business Website**
    - [Live Demo](https://dash.generalassemb.ly/lhajabi/build-your-own-business-website)
    - Professional business template
-   - Features: Services section, team members, testimonials
+   - Future Features: Services section, team members
 
 4. **JavaScript Enhanced**
    - [Live Demo](https://dash.generalassemb.ly/lhajabi/update-the-javascript-code)
    - Interactive website with JavaScript functionality
-   - Features: Dynamic content loading, form validation, animations
+   - Future Features: Dynamic content loading, form validation, animations
 
